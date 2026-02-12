@@ -45,7 +45,7 @@ function App() {
     <div className="container">
       <header>
         <h1>Cloud TP - Frontend</h1>
-        <p className="subtitle">Fetching data from the backend API</p>
+        <p className="subtitle">Fetching a lot of data from the backend API</p>
       </header>
 
       <main>
